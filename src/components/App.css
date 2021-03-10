@@ -110,8 +110,8 @@
 }
 
 .btn-dropdown {
-  padding-top: 11px;
-  padding-bottom: 11px;
+  padding-top: 11px !important;
+  padding-bottom: 11px !important;
   border-radius: 5px;
   background-color: #fff;
 }

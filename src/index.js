@@ -5,4 +5,4 @@ import Product from './components/Product.js';
 import Checkout from './components/Checkout.js';
 import App from './components/App.js';
 
-render(<App />, document.querySelector('#fake-browser'))
+render(<App />, document.querySelector('#root'))

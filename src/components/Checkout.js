@@ -2,7 +2,8 @@ import React from 'react';
 
 class Checkout extends React.Component {
   render() {
-    return (<p>Checkout!</p>)
+    return (<div className="checkout-wrapper">
+            </div>)
   }
 }
 
